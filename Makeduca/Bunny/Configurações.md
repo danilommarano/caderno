@@ -1,0 +1,6 @@
+- **Chave de API da conta**: ib5f616bc-2b22-4a5c-81f3-8d4754e3c138f37ae116-76b3-473e-b738-c3f02a5f31aa
+- **URL de Origem**: http://ff-debug-service-frontend-pro-ygxkweukma-uc.a.run.app
+- **Senha Storage**: b2f6a3ac-082c-4150-a0798993665f-e82e-469f
+- **Senha Storage Somente Leitura**: d38db837-ce32-4a4c-8bfb105af276-2841-409f
+- **API Key Library**: f8ce3b3e-a1d2-493f-a24c74079449-e658-478e
+- Library ID: 268549
